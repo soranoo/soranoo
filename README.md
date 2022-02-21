@@ -30,4 +30,4 @@ I'm an individual game developer and created 30+ games; however, none of them is
 
 
 </br></br></br>
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=soranoo.visitor-badge&left_color=blueviolet&right_color=grey) 
+![](https://komarev.com/ghpvc/?username=soranoo&style=flat-square&color=blueviolet)
