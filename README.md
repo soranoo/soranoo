@@ -22,8 +22,8 @@ I'm an individual game developer and created 30+ games; however, none of them is
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Arduino" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="padding-right:10px;" />
-</br>
+</br></br></br>
  
-**State ,** 
+
 | <a href="https://github.com/soranoo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=soranoo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Freeman's github stats" /></a> | <a href="https://github.com/soranoo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soranoo&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
