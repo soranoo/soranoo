@@ -27,3 +27,7 @@ I'm an individual game developer and created 30+ games; however, none of them is
 
 | <a href="https://github.com/soranoo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=soranoo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Freeman's github stats" /></a> | <a href="https://github.com/soranoo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soranoo&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+
+</br></br></br>
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=soranoo.visitor-badge&left_color=blueviolet&right_color=grey) 
