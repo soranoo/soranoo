@@ -1,6 +1,6 @@
 ### Hello there, I'm Freeman 👋
 
-I'm an individual game developer and created 30+ games; however, none of them is finished.😢.
+I'm an individual game developer and have created 30+ games; however, only a few of them are finished.😢.
 
 **About me ,**
 - 🔭 I’m currently working on a django website.<!-- - 🌱 I’m currently learning ... -->
