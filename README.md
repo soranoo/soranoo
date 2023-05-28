@@ -3,7 +3,7 @@
 I'm an individual game developer and created 30+ games; however, only a few of them are finished.😢
 
 **About me ,**
-- 🔭 I’m currently working on a video game.<!-- - 🌱 I’m currently learning ... -->
+- 🔭 I’m currently working on a website.<!-- - 🌱 I’m currently learning ... -->
 - ⚡ I'm not good at gaming SO I do game development~
 - ⏲️ I have over 8 years of experience in game development.
 
