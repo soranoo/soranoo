@@ -35,8 +35,10 @@ I'm an individual game developer and created 30+ games; however, only a few of t
 <br><br><br>
  
 
-| <a href="https://github.com/soranoo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=soranoo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Freeman's github stats" /></a> | <a href="https://github.com/soranoo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soranoo&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<!-- | <a href="https://github.com/soranoo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=soranoo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Freeman's github stats" /></a> | <a href="https://github.com/soranoo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soranoo&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- | -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soranoo&layout=compact&theme=buefy" />
+
 
 
 </br></br></br>
