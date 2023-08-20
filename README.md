@@ -31,6 +31,7 @@ I'm an individual game developer and created 30+ games; however, only a few of t
  <img align="left" alt="JavaScript" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-plain.svg" style="padding-right:10px;" />
  <img align="left" alt="TailwindCSS" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
+  <img align="left" alt="TailwindCSS" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-line.svg" style="padding-right:10px;" />
 </p>
 <br><br><br>
  
