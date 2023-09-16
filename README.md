@@ -40,6 +40,10 @@ I'm an individual game developer and created 30+ games; however, only a few of t
 | ------------- | ------------- | -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soranoo&layout=compact&theme=buefy" />
 
+-----
+
+### Dear Unity 💐
+Unity, I love you since 2016. You are the first and the best game engine I ever used. I hard to live without you. But **WHAT A SILLY DECISION** you recently made!! **YOU** broke my heart💔. **YOU** betrayed everyone who loves you. **It is not too late to change your mind.** I will love you as usual. 
 
 
 </br></br></br>
