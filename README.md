@@ -31,7 +31,8 @@ I'm an individual game developer and created 30+ games; however, only a few of t
  <img align="left" alt="JavaScript" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-plain.svg" style="padding-right:10px;" />
  <img align="left" alt="TailwindCSS" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
-  <img align="left" alt="TailwindCSS" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-line.svg" style="padding-right:10px;" />
+  <img align="left" alt="Next.js" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-line.svg" style="padding-right:10px;" />
+ <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />
 </p>
 <br><br><br>
  
@@ -39,11 +40,6 @@ I'm an individual game developer and created 30+ games; however, only a few of t
 <!-- | <a href="https://github.com/soranoo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=soranoo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Freeman's github stats" /></a> | <a href="https://github.com/soranoo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soranoo&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- | -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soranoo&layout=compact&theme=buefy" />
-
------
-
-### Dear Unity 💐
-Unity, I love you since 2016. You are the first and the best game engine I ever used. I hard to live without you. But **WHAT A SILLY DECISION** you recently made!! **YOU** broke my heart💔. **YOU** betrayed everyone who loves you. **It is not too late to change your mind.** I will love you as usual. 
 
 
 </br></br></br>
