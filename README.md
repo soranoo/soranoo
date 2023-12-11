@@ -10,7 +10,7 @@ I'm an individual game developer and created 30+ games; however, only a few of t
 ### Connect with me ,
 ```text
  ∧,,,∧   ~ ┏━━━━━━━━━━━━━━━━━━━┓
-( ̳•·• ̳)   ~ ♡  Nothing's here  ♡
+( ̳•·• ̳)   ~ ゜  Nothing's here  ゜
 /    づ    ~ ┗━━━━━━━━━━━━━━━━━━━┛
 ```
 
@@ -20,9 +20,13 @@ I'm an individual game developer and created 30+ games; however, only a few of t
 
 <br><br>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/soranoo?cardType=level-alternate&theme=radical&preferLogin=false)](https://github.com/soranoo) 
+<div style="display:flex;justify-content:left; gap:10px;">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soranoo\&layout=compact&theme=radical)](https://github.com/soranoo)
+  <img align="" height="150px" src="https://awesome-github-stats.azurewebsites.net/user-stats/soranoo?cardType=level-alternate&theme=radical&preferLogin=false" alt="Stats"/>
+  <img align="" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soranoo&layout=compact&theme=radical" alt="Top Langs"/>
+
+</div>
+
 
 
 ---
@@ -72,3 +76,6 @@ I'm an individual game developer and created 30+ games; however, only a few of t
           \     /
             END
 ```
+
+
+![View Counter](https://komarev.com/ghpvc/?username=soranoo&style=for-the-badge)
