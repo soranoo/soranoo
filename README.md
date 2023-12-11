@@ -2,23 +2,25 @@
 
 I'm an individual game developer and created 30+ games; however, only a few of them are finished.😢
 
-### About me ,
+### 🔮 About me
 - 🔭 I’m currently working on my second website.<!-- - 🌱 I’m currently learning ... -->
 - ⚡ I'm not good at gaming SO I do game development~
 - ⏲️ I have over 8 years of experience in game development and over a year of web development.
 
-### Connect with me ,
+### 📬 Connect with me
 ```text
  ∧,,,∧   ~ ┏━━━━━━━━━━━━━━━━━━━┓
 ( ̳•·• ̳)   ~ ゜  Nothing's here  ゜
 /    づ    ~ ┗━━━━━━━━━━━━━━━━━━━┛
 ```
 
-### Donation 💖
+### 💖 Donation
 
 [<img align="left" alt="Donation Button" width="130px" src="https://raw.githubusercontent.com/soranoo/Donation/main/resources/image/DonateBtn.png" />](https://github.com/soranoo/Donation) <- ღゝ◡╹)ノ♡
 
-<br><br>
+<br>
+
+### 🔥 MY Stats
 
 <div style="display:flex;justify-content:left; gap:10px;">
 
@@ -31,7 +33,7 @@ I'm an individual game developer and created 30+ games; however, only a few of t
 
 ---
 
-### What I know ,
+### 🔍 What I know
 
 #### Languages
 [![My Languages](https://skillicons.dev/icons?i=js,ts,html,css,sass,cs,graphql,java,md,php,py,regex,arduino&perline=7)](https://github.com/soranoo)
@@ -52,13 +54,13 @@ I'm an individual game developer and created 30+ games; however, only a few of t
 
 ---
 
-### Certification ૮₍ ˃ ⤙ ˂ ₎ა
+### 🎖️ Certification
 
 [<img align="center" alt="AWS Certified Cloud Practitioner" width="130px" src="assets/imgs/aws-certified-cloud-practitioner.png" />](https://github.com/soranoo)
 
 ---
 
-### Last Words
+### 📌 Last Words
 
 ```text
 ∩―――――――――――――∩
