@@ -2,7 +2,7 @@
 
 I'm an individual game developer and created 30+ games; however, only a few of them are finished.😢
 
-### About me,
+### About me ,
 - 🔭 I’m currently working on my second website.<!-- - 🌱 I’m currently learning ... -->
 - ⚡ I'm not good at gaming SO I do game development~
 - ⏲️ I have over 8 years of experience in game development and over a year of web development.
@@ -30,28 +30,29 @@ I'm an individual game developer and created 30+ games; however, only a few of t
 ### What I know ,
 
 #### Languages
-[![My Languages](https://skillicons.dev/icons?i=js,ts,html,css,sass,cs,graphql,java,md,php,py,regex,arduino&perline=7)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=js,ts,html,css,sass,cs,graphql,java,md,php,py,regex,arduino&perline=7)](https://github.com/soranoo)
 
 #### Frameworks
-[![My Framework](https://skillicons.dev/icons?i=django,express,flask,nextjs,react,tailwind)](https://skillicons.dev)
+[![My Framework](https://skillicons.dev/icons?i=django,express,flask,nextjs,react,tailwind)](https://github.com/soranoo)
  
 #### Databases
-[![My Databases](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+[![My Databases](https://skillicons.dev/icons?i=mongodb,mysql)](https://github.com/soranoo)
 
 #### Tools
 
-[![My Tools](https://skillicons.dev/icons?i=blender,docker,git,githubactions,unity,visualstudio,vscode,wordpress)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=blender,docker,git,githubactions,unity,visualstudio,vscode,wordpress)](https://github.com/soranoo)
 
 #### Platforms
 
-[![My Platforms](https://skillicons.dev/icons?i=aws,cloudflare,github,sentry)](https://skillicons.dev)
+[![My Platforms](https://skillicons.dev/icons?i=aws,cloudflare,github,sentry)](https://github.com/soranoo)
 
 ---
 
 ### Certification ૮₍ ˃ ⤙ ˂ ₎ა
 
-[<img align="center" alt="AWS Certified Cloud Practitioner" width="130px" src="assets/imgs/aws-certified-cloud-practitioner.png" />]()
+[<img align="center" alt="AWS Certified Cloud Practitioner" width="130px" src="assets/imgs/aws-certified-cloud-practitioner.png" />](https://github.com/soranoo)
 
+---
 
 ### Last Words
 
