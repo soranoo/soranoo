@@ -37,7 +37,7 @@ I'm an individual game developer and created 30+ games; however, only a few of t
 ### 🔍 What I know
 
 #### Languages
-[![My Languages](https://skillicons.dev/icons?i=js,ts,html,css,sass,cs,graphql,java,md,php,py,regex,arduino&perline=7)](https://github.com/soranoo)
+[![My Languages](https://skillicons.dev/icons?i=js,ts,html,css,sass,cs,java,php,py,arduino&perline=7)](https://github.com/soranoo)
 
 #### Frameworks
 [![My Framework](https://skillicons.dev/icons?i=django,express,flask,nextjs,react,tailwind)](https://github.com/soranoo)
