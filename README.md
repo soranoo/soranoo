@@ -1,10 +1,11 @@
 ## Hello there, I'm Freeman  \ ゜◡゜)ノ
 
 I'm an individual game developer and created 30+ games; however, only a few of them are finished.😢
+~Then I become a web dev~
 
 ### 🔮 About me
 <!-- - 🔭 I’m currently working on my second website. -->
-- 🌱 I’m currently learning GOOOOOOOOOOOOOOOO
+- 🌱 I’m currently working on a business site.
 - ⚡ I'm not good at gaming SO I do game development~
 - ⏲️ I have over 8 years of experience in game development and over a year of web development.
 
