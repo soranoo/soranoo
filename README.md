@@ -5,7 +5,7 @@ I'm an individual game developer and created 30+ games; however, only a few of t
 
 ### 🔮 About me
 <!-- - 🔭 I’m currently working on my second website. -->
-- 🌱 I’m currently working on a business site.
+- 🌱 I’m currently working on a business site AND studying CKA, CKD and CKS (what a nice bundling)
 - ⚡ I'm not good at gaming SO I do game development~
 - ⏲️ I have over 8 years of experience in game development and over a year of web development.
 
@@ -72,6 +72,8 @@ I'm an individual game developer and created 30+ games; however, only a few of t
 (　ノ　　   ⌒ ヽ ＼
 ＼　　||￣￣￣￣￣||
 　＼,ﾉ||
+
+Take your time and have a good sleep!
 
 |￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
 | Thank you for visiting!  |
