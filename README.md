@@ -48,7 +48,7 @@ I'm an individual game developer and created 30+ games; however, only a few of t
 
 #### Tools
 
-[![My Tools](https://skillicons.dev/icons?i=blender,docker,git,githubactions,unity,visualstudio,vscode,wordpress)](https://github.com/soranoo)
+[![My Tools](https://skillicons.dev/icons?i=blender,docker,kubernetes,git,githubactions,unity,visualstudio,vscode,wordpress)](https://github.com/soranoo)
 
 #### Platforms
 
