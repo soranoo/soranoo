@@ -5,7 +5,7 @@ I'm an individual game developer and created 30+ games; however, only a few of t
 
 ### 🔮 About me
 <!-- - 🔭 I’m currently working on my second website. -->
-- 🌱 I’m currently working on a business site AND studying CKA, CKD and CKS (what a nice bundling)
+- 🌱 I’m currently working on a business site AND studying AWS ML associate?
 - ⚡ I'm not good at gaming SO I do game development~
 - ⏲️ I have over 8 years of experience in game development and over a year of web development.
 
@@ -59,6 +59,7 @@ I'm an individual game developer and created 30+ games; however, only a few of t
 ### 🎖️ Certification
 
 [<img align="center" alt="AWS Certified Cloud Practitioner" width="130px" src="assets/imgs/aws-certified-cloud-practitioner.png" />](https://github.com/soranoo)
+[<img align="center" alt="The Linux Foundation Certified Kubernetes Administrator 91/100" width="130px" src="assets/imgs/cka.png" />](https://github.com/soranoo)
 
 ---
 
