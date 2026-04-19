@@ -5,9 +5,9 @@ I'm an individual game developer and created 30+ games; however, only a few of t
 
 ### 🔮 About me
 <!-- - 🔭 I’m currently working on my second website. -->
-- 🌱 I’m currently working on a business site.
+- 🌱 I’m currently studying [CISA](https://www.isaca.org/credentialing/cisa).
 - ⚡ I'm not good at gaming SO I do game development~
-- ⏲️ I have over 8 years of experience in game development and over a year of web development.
+- ⏲️ I have over 8 years of experience in game development and over 5 years in web development.
 
 ### 📬 Connect with me
 ```text
@@ -16,7 +16,7 @@ I'm an individual game developer and created 30+ games; however, only a few of t
 /    づ    ~ ┗━━━━━━━━━━━━━━━━━━━┛
 ```
 
-### 💖 Donation
+### 💖 Sponsorship
 
 [<img align="left" alt="Donation Button" width="130px" src="https://raw.githubusercontent.com/soranoo/Donation/main/resources/image/DonateBtn.png" />](https://github.com/soranoo/Donation) <- ღゝ◡╹)ノ♡
 
