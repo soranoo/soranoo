@@ -5,7 +5,7 @@ I'm an individual game developer and created 30+ games; however, only a few of t
 
 ### 🔮 About me
 <!-- - 🔭 I’m currently working on my second website. -->
-- 🌱 I’m currently studying RUST!!!!!!!!!!!!!!!!
+- 🌱 I’m currently studying RUST!!!!!!!!!!!!!!!! and PCA exam.
 - ⚡ I'm not good at gaming SO I do game development~
 - ⏲️ I have over 8 years of experience in game development and over 5 years in web development.
 
